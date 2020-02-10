@@ -1,0 +1,29 @@
+
+  
+    
+      nav li, nav ul, nav a, main {
+        max-width: 1200px;
+        margin: auto;
+    }
+header {
+    padding-left: 100px;
+}
+    
+
+    
+
+    
+  
+    
+     // .myphoto { min-width: 1200px;}
+    
+    nav ul {padding-left: $gutter;
+     }
+    nav li {width:auto;}
+    nav a {padding: .5rem 1rem;}
+
+    // .mypic { max-width: 1200px;}
+    
+    main figure { width: 33%;}
+    
+    div.news {column-count: 3;}
